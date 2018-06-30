@@ -23,6 +23,7 @@ be on edge phr 紧张不安
 frown n 皱眉；不悦；vi 皱眉；不赞成；vt 使哑口无言
 plague n 瘟疫，鼠疫，灾难；v 带来祸患，使焦虑
 imminent adj 迫近的，紧迫的，即将来临的
+obsess vt 迷住，使着迷，使烦扰
 be obsessed with
 v（指恐惧等）缠住，使烦扰，对。。。着迷
 perturb vt 使不安，烦扰，使紊乱
@@ -176,6 +177,15 @@ fatigue n 疲乏，劳累
 
 
 #事情
+gracious adj 亲切的；和善的；优美的；奢华的；
+int 天哪，哎呀
+arbitrary adj 随意的，专制的
+invalid n 病人，残疾人；adj 无效的
+gale n 狂风，一阵
+aesthetic adj 美学的；审美的；悦目的；雅致的
+bowel n 肠；内部；同情；v 将...的杜肠取出
+mortal adj 必有一死的，致命的，极端的；n 致命性，死亡数，死亡率，人类
+vigorous adj 强有力的；强健的；精力充沛的
 curriculum n 课程，(学校或专业的)全部课程；必修课
 keep to the beaten track phr 循规蹈矩
 foam n 泡沫，泡沫体，泡沫塑料
@@ -379,6 +389,14 @@ circumstance n 条件；情况；境遇；环境
 
 
 #物体
+fallacy n 谬论，谬见，错误，谬误
+apparatus n 装置，仪器，设备
+frugal adj 节俭的，俭朴的，不昂贵的，廉价的，花钱少的，不充足的
+integral adj 必不可少的；基本的；整体的；集成的；
+n 整体
+exotic adj 奇异的，珍奇的，来自异国的
+pliable adj 柔韧的，易弯的，圆滑的
+blonde adj（金发）金黄色的；n 金发女郎
 granular adj 粒状的，含颗粒的
 bulletin n 公告，公报，公告牌
 dairy n 乳制品，牛奶场
@@ -470,6 +488,22 @@ imperative adj 必要的；祈使的；急需的；n 命令；必要的事；义
 
 
 #动作
+overrule v 否决，驳回
+ascent n 上坡路，登高，上升
+rig n 钻井架；装备；成套器械v 操纵，装配，欺骗
+handicap vt 使不利，妨碍 n 障碍，阻碍，不利条件，不利因素；残疾，缺陷，生理缺陷
+nullify v 使无效，废弃，取消
+be set on sth adj 决心做某事
+shred n 碎片，少量，（常用复数）毁灭；
+v 切成细条，撕成碎片
+live it up v 过着逍遥的日子，狂欢一场
+get round to doing sth phr 抽出时间做
+amend v 修正；改进；修订
+deprive vt 夺去，剥夺，免去...的职务，使丧失
+surmount v 克服，战胜，越过
+intimidate v 恫吓，威胁
+cite v 表彰，嘉奖；引用，引证
+depict v 描绘，描写
 escalate v 加剧恶化，逐步增强，逐步升高
 nourish v 养育;怀有(希望)；增强(希望等)
 confront vt 与某人对峙；对抗；面临；面对
@@ -594,6 +628,7 @@ retort v 反驳，反击；n 反驳，反击
 petition n 情愿；请愿书；祈求； v 请愿
 dodge n 托词，躲闪 vi 躲避，避开 vt 躲避，避开
 vomit n 呕吐物，呕吐； v 呕吐；吐出；涌出；喷出
+strive v 斗争；努力，奋斗
 procure vt （努力）取得，获得，导致，完成；vi 介绍娼妓，拉皮条（I finally procure a signed photo of my idol）
 accompany v 陪伴；为...伴奏（或伴唱）
 be bent on v 专心致志于，决心要
@@ -897,6 +932,7 @@ slap v 掌击，拍打，捆，拍（she gave the boy a slap in the face）
 
 
 #地方
+pit v 使凹陷，使竞争；n 坑，陷阱，矿井，凹陷
 proximity n 接近，邻近
 quarry n 采石场，猎物，来源； v 挖出，努力挖掘
 mansion n 巨宅，官邸，大厦
@@ -915,6 +951,21 @@ avalanche n 雪崩，大量拥至； vi 雪崩
 
 
 #其他
+bow vi 鞠躬，弯腰 adj 弯曲的
+bow tie 领结，蝶形领结
+ordeal n 严峻考验，苦难的经历，折磨
+feast n 盛宴，筵席，节日； v 尽情地吃，饱餐；参加宴会
+keen adj 敏锐的，热衷的，强烈的 v 恸哭
+nostalgia n 怀旧之情，思乡病
+bloc n 集团
+dilemma  n 困境，左右为难
+probation n 试用；见习；缓刑；察看
+monologue n 独白，个人长篇演说
+prophecy n 语言，语言能力；预言书
+mucous adj 黏液的，似黏液的
+mint n  薄荷，薄荷糖，造币厂；v 铸造（硬币）
+preliminary adj 初步的，预备的；n 预赛，预考，初试，初步措施
+deluge n 洪水，暴雨，泛滥；v 使泛滥，压倒
 day in and day out adv 天天，一天又一天
 coed n 男女同校的女生；adj 男女同校的
 patron n 老主顾;赞助人；庇护人
