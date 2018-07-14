@@ -166,6 +166,7 @@ impromptu adj 即兴的；adv 即兴的 n 即兴之作
 overwrought adj 过分紧张的，过度兴奋的
 weary adj 疲倦的，困乏的，令人厌倦的；v 使疲倦，使厌倦
 fatigue n 疲乏，劳累 
+languid adj 无精打采，倦怠的
 
 
 
@@ -177,6 +178,14 @@ fatigue n 疲乏，劳累
 
 
 #事情
+epidemic adj 流行性的，传染的；n 流行病，盛行
+surplus adj 过剩的，多余的； n 过剩；盈余，顺差
+hilarious adj 有趣的；令人捧腹的；滑稽的；欢闹的
+marital adj 婚姻的
+narrative n 叙述； adj 叙述的
+dilapidated adj 倾坍，破旧的，破烂的
+nasty n 令人不快的事物；
+martial adj 武术的，好战的，军事的
 gracious adj 亲切的；和善的；优美的；奢华的；
 int 天哪，哎呀
 arbitrary adj 随意的，专制的
@@ -293,7 +302,7 @@ crevice n 缺口，裂缝
 forerunner n 先驱；祖先；前兆；预兆
 antecedent adj 先行的，先驱的； n 祖先，前情
 predecessor n 前辈；（被取代的）原有事物；前身
-
+trait n 特征
 strait n 海峡，困难，窘迫； adj 艰难的，苦恼的，窘迫的
 freak n 怪人，怪物，奇事 adj 反常的，怪诞的
 fickle adj （在感情等方面）反复无常的，轻浮的，善变的
@@ -389,6 +398,8 @@ circumstance n 条件；情况；境遇；环境
 
 
 #物体
+amphibian n 两栖动物，水陆两用飞机和车辆；
+adj 两栖类的，[车辆]水路两用的，具有双重性格的
 fallacy n 谬论，谬见，错误，谬误
 apparatus n 装置，仪器，设备
 frugal adj 节俭的，俭朴的，不昂贵的，廉价的，花钱少的，不充足的
@@ -467,6 +478,7 @@ torrent n 湍流，洪流，奔流，滔滔不绝，倾盆大雨
 beset v 困扰，嵌套，围绕
 turbulent adj 骚扰的，混乱的；狂暴的；吵闹的；激流的，湍流的
 treatise n 论述，论文，专著
+sustenance n 食物，粮食
 cereal n 谷物；谷类食物；谷类食品
 
 decrepit adj 衰老的，破旧的
@@ -488,6 +500,25 @@ imperative adj 必要的；祈使的；急需的；n 命令；必要的事；义
 
 
 #动作
+whirl v 回旋，飞奔，眩晕 n 回旋，旋转运动，旋转物，扰乱；眩晕
+vt 使旋转，卷走，使突然转向
+curse n 咒骂，祸因，骂人话； v 咒骂
+plummet v 垂直或突然地坠下，骤然下降
+reap v 收割，获得，收获
+subside vi 平息，减弱，坐下
+undergo v 经历遭受
+pollinate vt 传花粉给。。
+find one's bearing v 指明方向，信心十足
+rouse vt 唤醒，唤起
+coerce v 强迫，压制
+scorch v 烧焦；枯萎 n 烧焦；焦痕；枯黄
+flesh vt 把(武器)刺进肉体中，使长肉；n 肉，果肉，肉体
+condense v 压缩；精炼
+crumple v 把...揉作一团，弄皱，压碎
+as opposed to phr 与...形成对照
+dissipate v 消散，消失，浪费
+paraphrase v 解释，释义 n 转述，释义
+subcharge n 额外费用，过高的要价；v 追加罚款，使...加载过多，使...负担过重
 overrule v 否决，驳回
 ascent n 上坡路，登高，上升
 rig n 钻井架；装备；成套器械v 操纵，装配，欺骗
@@ -607,12 +638,14 @@ eke v （极小幅度地）增加，放长，（艰难地）取得（The blind s
 finance v 资金供给，筹措资金 n 金融，财政，资金
 repent v (对某事或行为感到)悔恨；后悔；悔改； adj 匍匐生根的；爬行的 （she kelt down and repented for what she had done）
 tease n 逗弄，爱戏弄别人者； vi 戏弄； vt 取笑；挑逗；强求 
+piracy n 剽窃；海上掠夺
 conspiracy n 密谋，阴谋
 intrigue v 密谋；引起极大兴趣  n 阴谋，诡计
 bust n 半身塑像 v 使爆裂，使破产 ，使降级
 see eye to eye(with) v看法完全一致 （The two men really see eye to eye with each other , and decide wo work together）
 poise v 使相等，使平衡  n 泰然自若，信心
 stand off 远离，疏远
+stand in （for sb） v 代替
 visualize v 想象，使形象化（The little bat visualizes what he'll become in the future）
 
 uprising n 起义，升起； adj 升起的； v 起义，升起
@@ -628,6 +661,10 @@ retort v 反驳，反击；n 反驳，反击
 petition n 情愿；请愿书；祈求； v 请愿
 dodge n 托词，躲闪 vi 躲避，避开 vt 躲避，避开
 vomit n 呕吐物，呕吐； v 呕吐；吐出；涌出；喷出
+steep adj 陡峭的，急剧的，过高的；n 陡坡；
+vi 泡，沉浸
+arduous adj 艰巨的；努力的；陡峭的
+（Cycling uphill is an arduous task）
 strive v 斗争；努力，奋斗
 procure vt （努力）取得，获得，导致，完成；vi 介绍娼妓，拉皮条（I finally procure a signed photo of my idol）
 accompany v 陪伴；为...伴奏（或伴唱）
@@ -648,11 +685,13 @@ leave a mark 留下记号
 make a mark 做记号，作标记
 解雇
 fire/dismiss/sacked/given the boot(not able to do the work)
+layoff n 活动停止期间，临时解雇，操作停止，失业期
 redundant(merger,reorgnise ,downsizing)
 结束
 class/meeting is dismiss 
 assault n 攻击，袭击； v 攻击，袭击，殴打
 specialize v 专门从事，专攻（The store specializes in selling hiking gear）
+gear n档位，齿轮，转动装置，衣物 v 使适合
 lamp n 灯；照射器 vt 照亮 vi 发亮
 lamb n 羔羊，小羊，羔羊肉 vt 生小羊，产羔羊 vi生小羊 ，产羔羊
 weave n 织物，织法；vt 织布；vt 织；编织
@@ -706,10 +745,12 @@ absorb vt 吸收，吸引...的注意，理解，承受
 assimilate v 使同化；吸收；消化
 make sb out to be v 把...说成（The old ladies make her out to be a bad person）
 make sth out v 写，辨认出，理解，歪曲
+
 slander n 诽谤，诋毁；v 讲坏话，污蔑，诽谤
 misrepresent vi 作虚假陈述； vt 歪曲，误传
 concoct v 调合，编造（故事等）
 afflict v 使痛苦 ， 使苦恼
+take sth upon oneself phr 承担；担任
 inflict v 使遭受（损伤，痛苦等），使承担（负担等）
 concede vi 让步；vt 承认容许，让步
 detrimental adj 有害的，不利的
@@ -803,6 +844,7 @@ advocate vt 提倡；主张；为...辩护；用户； n 提倡者；律师
 mobilize vi 动员起来； vt 动员，鼓动起
 harness v 挽具，马具，降落伞背带 v 上挽具，治理（河流等），利用
 scant adj 不足的，缺乏的，勉强够的； v减少，节省，限制
+etiquette n 礼仪
 observance n(法律习俗等的)遵守，奉行，礼仪，仪式
 convention n 会议；习俗；惯例
 chamber n 会议室，房间
@@ -817,6 +859,7 @@ overrun v 溢出，泛滥，（侵略军）横行；n 泛滥成灾，超出限�
 disslove v（使）溶解，（使）解散，废除
 solvent adj 有偿付能力的，有溶解力的； n 溶剂，解决方法
 solube adj 可溶解的，可解决的
+rhetoric n 修辞学，浮夸的言语
 pretentious adj 做作的，自命不凡，炫耀的
 show off 炫耀；卖弄
 flaunt n 招摇；飘扬；藐视； vi 炫耀；飘扬； vt 炫耀
@@ -951,6 +994,21 @@ avalanche n 雪崩，大量拥至； vi 雪崩
 
 
 #其他
+sole v 装鞋底； adj 独有的； n 脚底，鞋底，袜底
+inclusive adj 包括一切的，包含一切费用在内的
+well-to-do adj 富有的，有钱的，生活优裕的，小康的
+magnate n 大人物，大亨，巨头，权贵
+locality n 地点，地区，位置，方位
+psychology n 心理状态，心理学
+synonym n 同义词，同义密码子
+treatise n 论述，论文，专著
+traction n 拖拉，牵引力
+ideology n 意识形态，思想（体系）
+colonial adj 殖民地的，关于殖民的； n 殖民地居民
+catalyst n 催化剂，造成变化的人或事
+intuition n 直觉；感觉；感性知识
+（Her intuition told her that something was wrong）
+enzyme n [生化]酶
 bow vi 鞠躬，弯腰 adj 弯曲的
 bow tie 领结，蝶形领结
 ordeal n 严峻考验，苦难的经历，折磨
@@ -1032,6 +1090,7 @@ flaw n 瑕疵；缺点； v 使有缺陷；使不完美；有瑕疵
 vice n 罪恶；不道德行为；坏习惯
 deficiency n 缺乏，补足，缺陷
 blot n 墨水渍，污点，缺点；v 涂污，（用吸水纸）吸干墨水，遮暗
+stain n 污渍，污迹 v 玷污，染色
 mar v 毁坏，弄糟，玷污； n 污点，瑕疵
 profane adj 亵渎神圣，不敬的，粗俗的，污秽的  v 亵渎，玷污（神圣），滥用
 betray v 背叛，出卖；失信于，辜负；泄露（秘密等）；（非故意地）暴露，显露
@@ -1076,9 +1135,9 @@ abrasion n 擦伤，表面磨损
 trauma n 精神创伤，外伤
 
 in one's face adv 公开地，当着某人的面
-
+go without saying v 不言而喻，理所当然
 take sth to heart phr 牢记，为某事耿耿于怀
-
+bud n 蓓蕾，芽，少年，伙计
 conscience n 良心，良知
 evil 
 once (and) for all adv 只此一次，彻底地
@@ -1107,6 +1166,7 @@ in （out of）line （with）跟。。。(不)一致
 discrepancy  n 不一致，差异，不符
 constast n对照，对比，差异；v(with)使与...对比
 eligible adj 符合条件的，适合被选的，（尤指婚姻等）合适的，合意的
+apt adj 恰当的，适宜的，易于，有（做某事的）倾向
 concerted adj 一致的，商定的
 coincidental adj 巧合的；符合的；暗合的；一致的
 accord n 协议，一致，符合（尤指国与国之间的）谅解；v 相一致，相符合，授予，赠与
