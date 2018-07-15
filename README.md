@@ -23,6 +23,7 @@ be on edge phr 紧张不安
 frown n 皱眉；不悦；vi 皱眉；不赞成；vt 使哑口无言
 plague n 瘟疫，鼠疫，灾难；v 带来祸患，使焦虑
 imminent adj 迫近的，紧迫的，即将来临的
+infest v 骚扰，寄生于，大批出没
 obsess vt 迷住，使着迷，使烦扰
 be obsessed with
 v（指恐惧等）缠住，使烦扰，对。。。着迷
@@ -82,6 +83,7 @@ inept  adj 无能的，不称职的，笨拙的
 frugal adj 节俭的，简朴的，不昂贵的，廉价的，花钱少的，不充足的
 to one's face phr 坦白地，当面
 earnest adj 真诚的，诚挚的，认真的；n 诚挚，严肃认真，热心
+virtuous adj 善良的，有德行的，贞洁的
 genuine adj 真正的，名副其实的，真诚的
 sincere  adj 真诚的，诚恳的
 righteous adj 正直的，正当的，公正的
@@ -178,6 +180,14 @@ languid adj 无精打采，倦怠的
 
 
 #事情
+commute n 在两地之间乘车往返；vi 经常乘车往返于两地之间； vt 减免
+postthumous adj 遗腹的，著作者死后出版的，死后的
+mundane adj 普通的，平凡的，单调的，现世的，世俗的
+responsive adj 反应积极的，反应敏捷的，响应的，回答的
+(Our conpany , baicizhan, is responsive to user's demand)
+basement n 地下室；底部
+sheer adj 陡峭的，纯粹的 v 急转向，偏离 n 透明薄沙，透明布料的衣服
+fastidious adj 难逃好的，爱挑剔的
 epidemic adj 流行性的，传染的；n 流行病，盛行
 surplus adj 过剩的，多余的； n 过剩；盈余，顺差
 hilarious adj 有趣的；令人捧腹的；滑稽的；欢闹的
@@ -317,8 +327,10 @@ reign v占主导地位，统治，当政；n (君主)统治时期
 palatable adj 美味的，合口味的，合心意的
 phenomenal adj 非凡的，现象的，显著的
 notable n 著名人士； adj 值得注意的，显著的，显要的
+overt adj 明显的；公然的；公开的
 conspicuous adj 显著的，显而易见的
 renowned adj 著名的，有名的 （The Eiffel tower is renowned for its beauty and simplicity）
+exceptional n 超常的学生 adj 异常的；优越的，杰出的
 eminent adj 显赫的，杰出的，有名的，优良的
 sparse adj 稀少的；稀疏的；
 spary n 浪花，水雾，喷雾 vi 飞溅，喷 vt 喷，向。。。扫射；散布
@@ -352,6 +364,8 @@ cunning n 狡猾，精巧； adj 狡猾的，精巧的
 
 mischief n 伤害；恶作剧；顽皮
 sturdy adj 结实的，坚固的；强壮的，健壮的
+perennial adj 终年的，永久的，四季不断的，反复的；
+n 多年生植物
 invariably adv 不变地；永恒地；总是
 for good(and all) adv 永久地，一劳永逸地
 external adj 永恒的，永不改变的
@@ -359,6 +373,7 @@ everlasting adj 永恒的，持久的，无止境的，耐用的
 perpetual adj 永远的，永恒的，不断的
 indispensable adj 必需的，必不可少的
 uncalled-for adj 没有必要的，不合适的
+mundane adj 普通的，平凡的，单调的，现世的，世俗的
 platitude  n.老生长谈，陈词滥调，单调
 cliche n 陈腐思想，陈词滥调
 monotonous adj 单调的，无聊的
@@ -398,6 +413,9 @@ circumstance n 条件；情况；境遇；环境
 
 
 #物体
+craft vt 手工制作，精心制作； n 手工艺，手工制品，船，航天器
+advent n 来临（He prays for the advent of the angel）
+dissertation n (博士学位)论文
 amphibian n 两栖动物，水陆两用飞机和车辆；
 adj 两栖类的，[车辆]水路两用的，具有双重性格的
 fallacy n 谬论，谬见，错误，谬误
@@ -453,6 +471,7 @@ lofty adj 极高的，巍峨的，崇高的，高傲的
 myriad n 无数，极大数量；adj  无数的
 marvelous adj 令人惊奇的，奇迹般的
 prodigious adj 巨大的，异常的，奇妙的
+colossal adj 巨像的，巨大的，庞大的
 sophisticated adj 老于世故的，成熟的，(仪器)精密的，繁复的，精致的
 delicate adj 脆弱的；微妙的；精美的；纤细的；敏锐的；美味的
 dedicate v 献给，致力于
@@ -500,6 +519,17 @@ imperative adj 必要的；祈使的；急需的；n 命令；必要的事；义
 
 
 #动作
+staple v 用订书钉订 n 订书钉，主食，主要产品 adj 主要的，基本的，标准的
+emigrate v 移居国外(或外地)
+rehabilitate v 使康复，使恢复名誉，使恢复原状
+transcend v 超越(经验，理性，信念等)的范围，超过
+chill v(使)感冒，使变冷； n 寒冷 adj 扫兴的
+underwrite v 给...保险，承诺支付，同意赔款（海上保险）
+at the mercy of prep 在...支配中，任凭...摆布
+misguided adj 被误导的，被引入歧途的 v 使误入歧途
+distort v 扭曲，使变形，扭曲，曲解
+excerpt v 摘，选 n 摘录，节选
+fend  v (靠自己)谋生，保护，力争
 whirl v 回旋，飞奔，眩晕 n 回旋，旋转运动，旋转物，扰乱；眩晕
 vt 使旋转，卷走，使突然转向
 curse n 咒骂，祸因，骂人话； v 咒骂
@@ -509,6 +539,7 @@ subside vi 平息，减弱，坐下
 undergo v 经历遭受
 pollinate vt 传花粉给。。
 find one's bearing v 指明方向，信心十足
+lose one's bearing phr 迷失方向，不知所措
 rouse vt 唤醒，唤起
 coerce v 强迫，压制
 scorch v 烧焦；枯萎 n 烧焦；焦痕；枯黄
@@ -779,9 +810,11 @@ combustible adj 易燃的，易激动的；n 可燃物，易燃物
 impluse n 冲动，脉冲，驱使（When I go shopping it is easy to spend a lot of money on an impluse）
 exacerbate v 加重，恶化，激怒
 ruffle vt 使起波浪，扰乱，激怒； n 荷叶边，花边
+pungent adj 刺鼻的，刺激性的
 goad n(赶牛用的)刺棒； vt 驱赶；刺激；鼓励
 deteriorate v 恶化，变坏
 perplex vt 使困惑;使茫然
+choke n 窒息，噎 v 噎住，使窒息，阻塞，抑制，说不出话
 baffle v 阻碍，使困惑；n 挡板
 deter v 防止，阻止，使踌躇
 frustrate v 使灰心，挫败；阻挠
@@ -849,6 +882,7 @@ observance n(法律习俗等的)遵守，奉行，礼仪，仪式
 convention n 会议；习俗；惯例
 chamber n 会议室，房间
 （The chamber has enough seats for a meeting）
+defile v 污损，弄脏，以纵队前进；n 峡谷，狭路
 contaminate v 弄脏，污染
 blur n 污点 ，模糊 v 使...模糊；弄脏
 dingy adj 昏暗的，肮脏的，褴褛的
@@ -945,6 +979,7 @@ splash v 溅，泼洒，使成斑驳状 n 飞溅的水；污点；卖弄
 vindicate vt 证明...无辜，维护，辩护
 convict n 犯人；v(经审讯)证明...有罪
 substantiate v 证实，使实体化
+bear sth (sb) out v 证实
 slack adj 松弛的；懈怠的；萧条的；
 n 松弛的部分；松散；淡季；
 vt 使缓慢；疏忽；
@@ -994,6 +1029,12 @@ avalanche n 雪崩，大量拥至； vi 雪崩
 
 
 #其他
+caption n (报刊的)标题 (插图，照片等的)说明文字
+expertise n 专门知识，专门技能
+custodian n 监护人，保管人，看守人
+attendant n 服务员，侍者，随从 adj 伴随的，随之而产生的
+antarctic adj 南极的 n 南极区
+brashness n 莽撞，无礼，轻率
 sole v 装鞋底； adj 独有的； n 脚底，鞋底，袜底
 inclusive adj 包括一切的，包含一切费用在内的
 well-to-do adj 富有的，有钱的，生活优裕的，小康的
